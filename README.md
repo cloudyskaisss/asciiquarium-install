@@ -1,5 +1,5 @@
 # asciiquarium-install
-Automatically install asciiquarium in linux systems
+Automatically install asciiquarium in Debian or Ubuntu systems.
 
 To use this tool, simply cd into the repository and execute the following command:
 
