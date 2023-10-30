@@ -1,6 +1,3 @@
-# set variables
-$OD = $(pwd)
-
 # install dependencies
 sudo apt install libcurses-perl make
 sudo wget https://cpan.metacpan.org/authors/id/K/KB/KBAUCOM/Term-Animation-2.5.tar.gz
