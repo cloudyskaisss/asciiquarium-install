@@ -1,5 +1,6 @@
 # install dependencies
-sudo apt install libcurses-perl make
+cd /tmp
+sudo apt install libcurses-perl make -y
 sudo wget https://cpan.metacpan.org/authors/id/K/KB/KBAUCOM/Term-Animation-2.5.tar.gz
 sudo tar -zxf Term-Animation-2.5.tar.gz
 cd Term-Animation-2.5
